@@ -1,0 +1,82 @@
+{
+   "questions":[
+      {
+         "question":"¿Cómo se envía un referido?",
+         "accepted":[
+            "Mandar por mail a talent acquisition."
+         ],
+         "rejected":[
+            "Mandar por Slack a HR."
+         ]
+      },
+      {
+         "question":"¿Cómo puedo hacer una pregunta en la monthly?",
+         "accepted":[
+            "Todas son correctas."
+         ],
+         "rejected":[
+            "Mandarla en form pineado en #argentina.",
+            "Mandar por Slack a Marketing"
+         ]
+      },
+      {
+         "question":"¿Dónde puedo acceder al recibo de sueldo?",
+         "accepted":[
+            "Humanage"
+         ],
+         "rejected":[
+            "Harvest",
+            "Bamboo"
+         ]
+      },
+      {
+         "question":"¿A quién le podés pedir algo si necesitas en la oficina?",
+         "accepted":[
+            "Office Managers"
+         ],
+         "rejected":[
+            "Talent",
+            "HR"
+         ]
+      },
+      {
+         "question":"¿A quién le tenés que avisar si te roban la computadora?",
+         "accepted":[
+            "IT"
+         ],
+         "rejected":[
+            "Marketing",
+            "HR"
+         ]
+      },
+      {
+         "question":"¿A quién le podés escribir si se te ocurre alguna iniciativa para hacer en DEPT®?",
+         "accepted":[
+            "Todas las anteriores."
+         ],
+         "rejected":[
+            "Tu manager.",
+            "Marketing."
+         ]
+      },
+      {
+         "question":"¿Cómo se llama la reunión que tiene nuestro Managing Director con los nuevos ingresos?",
+         "accepted":[
+            "GPS"
+         ],
+         "rejected":[
+            "PTO"
+         ]
+      },
+      {
+         "question":"¿Cuando llegó DEPT® a Argentina?",
+         "accepted":[
+            "2019"
+         ],
+         "rejected":[
+            "2003",
+            "2023"
+         ]
+      }
+   ]
+}
